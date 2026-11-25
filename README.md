@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flux — protótipo acadêmico (PWA)
 
 Simulação de **envio, recebimento e histórico de transferências internacionais**, com países/moedas, taxas e câmbio **fictícios**, identificação por contato / código de usuário / QR Code simulado e comprovantes fictícios.
@@ -63,3 +64,6 @@ Para ampliar a cobertura edite `src/data/countries.ts` e `src/data/currencies.ts
 - Liquidação em 4 horas (RN02) e parcerias em 9 países (RN03) são objetivos conceituais, citados na Ajuda; não implementados.
 - Dados locais: não são sincronizados nem oficiais; limpar o navegador apaga o histórico.
 - Testes automatizados rodaram apenas em **Chromium** (desktop e emulação Pixel 7). Safari/iOS, Samsung Internet e dispositivos reais **não foram testados**; teste-os manualmente antes de afirmar compatibilidade. A acessibilidade foi cuidada (rótulos, foco, teclado, `aria-live`), mas sem auditoria com leitor de tela.
+=======
+# Flux
+>>>>>>> 97b178175c75a979e214ec98d479f044e39274a4
